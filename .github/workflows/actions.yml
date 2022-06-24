@@ -20,7 +20,7 @@ env:
   Rec_ver: 3.6.2
   Rec_url: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-11
   device: umi
-  DT_url: https://github.com/sekaiacg/android_device_xiaomi_umi_TWRP -b android-12.1
+  DT_url: https://github.com/sekaiacg/android_device_xiaomi_umi_TWRP -b android-12
   DT_path: device/xiaomi/umi
   ProductFileHeader: twrp
   target: recoveryimage
